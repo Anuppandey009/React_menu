@@ -1,0 +1,44 @@
+.btn {
+  border-radius: 20px;
+  width: 150px;
+  color: white;
+  text-align: center;
+  font-size: 22px;
+}
+#join {
+  background-color: skyblue;
+}
+
+#Settings {
+  background-color: blueviolet;
+}
+#login {
+  background-color: orange;
+}
+#search {
+  background-color: green;
+}
+
+#home {
+  background-color: pink;
+}
+
+#contactus {
+  background-color: red;
+}
+
+#help {
+  background-color: purple;
+}
+
+#download {
+  background-color: greenyellow;
+}
+
+#container {
+  display: flex;
+  line-height: 40px;
+}
+#right {
+  margin-left: 30px;
+}
